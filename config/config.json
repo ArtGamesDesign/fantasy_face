@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6E63574BCAFEd1aD324b4d52B23E059A3fB0A7d1",
+  "SCAN_LINK": "https://polygonscan.com/address/0x6e63574bcafed1ad324b4d52b23e059a3fb0a7d1",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Fantasy Face Ethereal Portrait",
+  "SYMBOL": "FFEP",
+  "MAX_SUPPLY": 3300,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/fantasyfaceetherealportrait",
+  "SHOW_BACKGROUND": true
+}

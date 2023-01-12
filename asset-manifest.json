@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fantasy_face/static/css/main.7b96f423.chunk.css",
+    "main.js": "/fantasy_face/static/js/main.878f751b.chunk.js",
+    "main.js.map": "/fantasy_face/static/js/main.878f751b.chunk.js.map",
+    "runtime-main.js": "/fantasy_face/static/js/runtime-main.155a5516.js",
+    "runtime-main.js.map": "/fantasy_face/static/js/runtime-main.155a5516.js.map",
+    "static/js/2.291956c4.chunk.js": "/fantasy_face/static/js/2.291956c4.chunk.js",
+    "static/js/2.291956c4.chunk.js.map": "/fantasy_face/static/js/2.291956c4.chunk.js.map",
+    "static/js/3.bfc1a810.chunk.js": "/fantasy_face/static/js/3.bfc1a810.chunk.js",
+    "static/js/3.bfc1a810.chunk.js.map": "/fantasy_face/static/js/3.bfc1a810.chunk.js.map",
+    "index.html": "/fantasy_face/index.html",
+    "static/css/main.7b96f423.chunk.css.map": "/fantasy_face/static/css/main.7b96f423.chunk.css.map",
+    "static/js/2.291956c4.chunk.js.LICENSE.txt": "/fantasy_face/static/js/2.291956c4.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/fantasy_face/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.155a5516.js",
+    "static/js/2.291956c4.chunk.js",
+    "static/css/main.7b96f423.chunk.css",
+    "static/js/main.878f751b.chunk.js"
+  ]
+}
